@@ -27,7 +27,7 @@
 
 <div align="center">
   <h2> <strong> Actively Learning </strong></h2>
-  <img src="https://skillicons.dev/icons?i=js,html,css,sass,tailwind,git,bootstrap,figma,ps,xd,react,nextjs,nodejs,express,mongodb,bootstrap" alt="skills actively learning logos"> <br><br><br><br>
+  <img src="https://skillicons.dev/icons?i=js,html,css,sass,tailwind,git,bootstrap,figma,ps,xd,react,nextjs,nodejs,express,mongodb,bootstrap,typescript" alt="skills actively learning logos"> <br><br><br><br>
   <h2> <strong> Plan to Learn </strong></h2><br>
   <img src="https://skillicons.dev/icons?i=threejs" alt="skills planning to learn logos">
 </div>
